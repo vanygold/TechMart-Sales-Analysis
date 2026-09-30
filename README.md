@@ -77,6 +77,10 @@ The project includes three visualizations:
 
 ![Revenue by Region](visualizations/revenue_by_region.png)
 
+### Monthly Revenue
+
+![Monthly Revenue](visualizations/monthly_revenue.png)
+
 
 The charts are stored in the `visualizations` folder.
 

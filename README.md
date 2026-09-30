@@ -65,12 +65,18 @@ The project analyzed:
 ## Visualizations
 
 The project includes three visualizations:
-### Revenue by Product
-
-![Revenue by Product](visualizations/revenue_by_product.png)
 1. Revenue by Product
 2. Revenue by Region
 3. Monthly Revenue
+
+### Revenue by Product
+
+![Revenue by Product](visualizations/revenue_by_product.png)
+
+### Revenue by Region
+
+![Revenue by Region](visualizations/revenue_by_region.png)
+
 
 The charts are stored in the `visualizations` folder.
 

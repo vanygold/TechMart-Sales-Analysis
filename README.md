@@ -65,7 +65,9 @@ The project analyzed:
 ## Visualizations
 
 The project includes three visualizations:
+### Revenue by Product
 
+![Revenue by Product](visualizations/revenue_by_product.png)
 1. Revenue by Product
 2. Revenue by Region
 3. Monthly Revenue

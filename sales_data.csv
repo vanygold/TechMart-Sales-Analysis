@@ -1,0 +1,24 @@
+Date,Product,Category,Quantity,Price,Region
+2026-01-03,Laptop,Computers,2,450000,Lagos
+2026-01-05,Mouse,Accessories,5,15000,Abuja
+2026-01-08,Smartphone,Phones,3,280000,Lagos
+2026-01-12,Keyboard,Accessories,4,25000,Ibadan
+2026-01-15,Tablet,Phones,2,180000,Port Harcourt
+2026-01-18,Monitor,Computers,3,120000,Abuja
+2026-01-22,Headphones,Accessories,6,35000,Lagos
+2026-01-25,Laptop,Computers,1,450000,Ibadan
+2026-02-02,Smartphone,Phones,4,280000,Abuja
+2026-02-06,Mouse,Accessories,8,15000,Lagos
+2026-02-10,Tablet,Phones,3,180000,Lagos
+2026-02-14,Monitor,Computers,2,120000,Port Harcourt
+2026-02-18,Keyboard,Accessories,5,25000,Abuja
+2026-02-21,Laptop,Computers,2,450000,Lagos
+2026-02-25,Headphones,Accessories,7,35000,Ibadan
+2026-03-01,Smartphone,Phones,5,280000,Lagos
+2026-03-05,Monitor,Computers,4,120000,Abuja
+2026-03-09,Mouse,Accessories,10,15000,Port Harcourt
+2026-03-13,Tablet,Phones,2,180000,Ibadan
+2026-03-17,Laptop,Computers,3,450000,Abuja
+2026-03-21,Keyboard,Accessories,6,25000,Lagos
+2026-03-25,Headphones,Accessories,5,35000,Lagos
+2026-03-28,Smartphone,Phones,3,280000,Port Harcourt
